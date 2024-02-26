@@ -1,0 +1,21 @@
+/* Customize header */
+.stApp > h1 {
+    font-size: 2em;
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Style the text input */
+  .stTextInput {
+    background-color: #ffffff;
+    border: 1px solid #0f1d77;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  /* Style the response area */
+  .stWrite p {
+    font-size: 1.2em;
+    line-height: 1.5;
+    margin-top: 20px;
+  }
